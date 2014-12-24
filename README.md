@@ -8,6 +8,10 @@ Cherry MX breakout board for Arduino, RaspberryPi and other boards.
 
 Order here: https://oshpark.com/shared_projects/PogDjaIS
 
+
+Arduino Sample
+==============
+
 ```arduino
 const int buttonPin = 10;
 const int ledPin = 11;
